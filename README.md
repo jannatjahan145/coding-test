@@ -1,3 +1,6 @@
+## To use it
+composer update
+
 ## Packages:
 hardevine/LaravelShoppingcart package is utilized to manage the cart.
 
